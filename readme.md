@@ -23,7 +23,7 @@ https://beta.ionicframework.com/docs/installation/ios
 Para descargar este proyecto, situate en el directorio donde quieras instalarlo y ejecutar:
 
 ~~~~
-git clone git@bitbucket.org:startupses/mobile.git
+git clone https://github.com/danyjaen/ionic-tests/
 ~~~~
 
 Esto te creará el proyecto.
