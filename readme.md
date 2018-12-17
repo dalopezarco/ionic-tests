@@ -1,4 +1,6 @@
 # Prerrequisitos
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdanyjaen%2Fionic-tests.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdanyjaen%2Fionic-tests?ref=badge_shield)
+
 
 Para usar este proyecto es necesaria la versión más reciente de Node.
 
@@ -51,3 +53,7 @@ y después
 ionic serve
 ~~~~
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdanyjaen%2Fionic-tests.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdanyjaen%2Fionic-tests?ref=badge_large)
